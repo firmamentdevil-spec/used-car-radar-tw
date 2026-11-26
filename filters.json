@@ -1,0 +1,18 @@
+
+{
+  "min_price": 50000,
+  "max_price": 80000,
+  "vehicle_type": "hatchback",
+  "weekly_selection": 10,
+  "search_queries": [
+    "台灣 二手 掀背車 5萬 8萬",
+    "site:8891.com.tw 掀背 中古車 8萬",
+    "中古車 Honda Fit 8萬元",
+    "中古車 Toyota Yaris 8萬元",
+    "中古車 Nissan Tiida 8萬元",
+    "中古車 Ford Focus 5D 8萬元",
+    "中古車 Suzuki Swift 8萬元",
+    "中古車 Mazda 3 5D 8萬元",
+    "中古車 掀背 50000 80000"
+  ]
+}
